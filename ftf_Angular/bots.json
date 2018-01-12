@@ -1,10 +1,114 @@
 {
+	"arcee": {
+		"name": "Arcee",
+		"image": "arcee.png"
+	},
+	"bludgeon": {
+		"name": "Bludgeon",
+		"image": "bludgeon.png"
+	},
+	"bonecrusherMV": {
+		"name": "Bonecrusher (MV1)",
+		"image": "bonecrusherMV.png"
+	},
+	"bumblebeeMV": {
+		"name": "Bumblebee (DOTM)",
+		"image": "bumblebeeMV.png"
+	},
+	"dinobot": {
+		"name": "Dinobot",
+		"image": "dinobot.png"
+	},
+	"drift": {
+		"name": "Drift",
+		"image": "drift.png"
+	},
+	"galvatron": {
+		"name": "Galvatron",
+		"image": "galvatron.png"
+	},
+	"grimlock": {
+		"name": "Grimlock",
+		"image": "grimlock.png"
+	},
+	"grindor": {
+		"name": "Grindor",
+		"image": "grindor.png"
+	},
+	"hot_rod": {
+		"name": "Hot Rod",
+		"image": "hot_rod.png"
+	},
+	"ironhide": {
+		"name": "Ironhide",
+		"image": "ironhide.png"
+	},
+	"magnus": {
+		"name": "Ultra Magnus",
+		"image": "magnus.png"
+	},
+	"megatronMV": {
+		"name": "Megatron (ROTF)",
+		"image": "megatronMV.png"
+	},
+	"mirage": {
+		"name": "Mirage",
+		"image": "mirage.png"
+	},
+	"mixmaster": {
+		"name": "Mixmaster",
+		"image": "mixmaster.png"
+	},
+	"motormaster": {
+		"name": "Motormaster",
+		"image": "motormaster.png"
+	},
 	"optimus": {
 		"name": "Optimus Prime",
 		"image": "optimus.png"
 	},
+	"optimusMV": {
+		"name": "Optimus Prime (MV1)",
+		"image": "optimusMV.png"
+	},
+	"prowl": {
+		"name": "Prowl",
+		"image": "prowl.png"
+	},
+	"ramjet": {
+		"name": "Ramjet",
+		"image": "ramjet.png"
+	},
 	"ratchet": {
 		"name": "Ratchet",
 		"image": "ratchet.png"
+	},
+	"rhinox": {
+		"name": "Rhinox",
+		"image": "rhinox.png"
+	},
+	"shockwave": {
+		"name": "Shockwave",
+		"image": "shockwave.png"
+	},
+	"sideswipe": {
+		"name": "Sideswipe",
+		"image": "sideswipe.png"
+	},
+	"soundwave": {
+		"name": "Soundwave",
+		"image": "soundwave.png"
+	},
+	"starscream": {
+		"name": "Starscream",
+		"image": "starscream.png"
+	},
+	"waspinator": {
+		"name": "Waspinator",
+		"image": "waspinator.png"
+	},
+	"windblade": {
+		"name": "Windblade",
+		"image": "windblade.png"
 	}
 }
