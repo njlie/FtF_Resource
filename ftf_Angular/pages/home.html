@@ -3,6 +3,10 @@
 		transform: rotateY(180deg);
 	}
 
+	.flip-container {
+		float: left;
+	}
+
 	.flip-container, .front, .back {
 		width: 320px;
 		height: 320px;
@@ -14,7 +18,6 @@
 		width: 320px;
 		height: 320px;
 		position: relative;
-		float: left;
 
 	}
 
@@ -52,8 +55,8 @@
 		<h1>Home Page</h1>
 
 		<p>{{ message }}</p>
-			<!--<div class="flip-container">-->
-				<div class="flipper" ng-repeat="key in bots" ng-class="{flipped: hovered}" ng-mouseover="hovered=true" ng-mouseleave="hovered=false" >
+			<div class="flip-container" ng-repeat="key in bots">
+				<div class="flipper" >
 					<div class="front">
 						<img class="botPortrait" src="pages/images/bots/{{ key.image }}" />
 					</div>
@@ -61,5 +64,5 @@
 						{{ key.name }}
 					</div>
 				</div>
-			<!--</div>-->
+			</div>
 	</div>
